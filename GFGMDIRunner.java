@@ -1,10 +1,10 @@
 package GFG_MDI_Questions;
 
-import GFG_MDI_Questions.MD_Arrays.*;
+import GFG_MDI_Questions.MD_Math.*;
 
 public class GFGMDIRunner {
     public void run(){
-        MissingNumberInArray missingNumberInArray = new MissingNumberInArray();
-        missingNumberInArray.mainMissingNumberInArray();
+        ASimpleFraction aSimpleFraction = new ASimpleFraction();
+        aSimpleFraction.mainASimpleFraction();
     }
 }

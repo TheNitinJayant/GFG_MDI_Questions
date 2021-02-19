@@ -1,4 +1,4 @@
-package GFG_MDI_Questions.MD_Arrays;
+package GFG_MDI_Questions.MD_Math;
 import java.util.*;
 
 public class MissingNumberInArray {
