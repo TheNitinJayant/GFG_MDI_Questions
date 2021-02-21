@@ -1,10 +1,11 @@
 package GFG_MDI_Questions;
 
+import GFG_MDI_Questions.MD_Arrays.*;
 import GFG_MDI_Questions.MD_Math.*;
 
 public class GFGMDIRunner {
     public void run(){
-        ASimpleFraction aSimpleFraction = new ASimpleFraction();
-        aSimpleFraction.mainASimpleFraction();
+        EquilibriumPoint equilibriumPoint= new EquilibriumPoint();
+        equilibriumPoint.mainEquilibriumPoint();
     }
 }
