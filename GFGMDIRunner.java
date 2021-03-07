@@ -5,7 +5,7 @@ import GFG_MDI_Questions.MD_Math.*;
 
 public class GFGMDIRunner {
     public void run(){
-        RearrangeArrayAlternately rearrangeArrayAlternately = new RearrangeArrayAlternately();
-        rearrangeArrayAlternately.mainRearrangeArrayAlternately();
+        PlusOne plusOne = new PlusOne();
+        plusOne.mainPlusOne();
     }
 }
